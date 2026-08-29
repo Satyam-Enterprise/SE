@@ -24,7 +24,7 @@
 .industries{background:var(--navy);color:#fff}
 .industries .industry-copy>p:last-of-type{color:#b9c9dd}
 .industries .industry-list{border-top-color:rgba(255,255,255,.2)}
-.industries .industry-list li{border-bottom-color:rgba(255,255,255,.2)}
+.industries .industry-list li{border-bottom-color:rgb(50 112 212 / 99%)}
 .industries .industry-list li span{color:var(--orange)}
 .clients{background:#fff}
 .contact{background:linear-gradient(90deg,#eef3f7 0%,#fff 62%)}
